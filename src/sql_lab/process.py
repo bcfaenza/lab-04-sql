@@ -13,12 +13,7 @@ logging.basicConfig(
 def read_data(filename):
     """
     Loads data from a CSV file into a pandas DataFrame.
-
-    Parameters:
-        filename (str): The path to the CSV file.
-
-    Returns:
-        pd.DataFrame: The loaded dataset.
+    Takes in filename (path to CSV file) and returns the loaded dataset
     """
     logging.info(f"Reading CSV file from: {filename}")
 
@@ -32,12 +27,7 @@ def read_data(filename):
 def clean_data(data):
     """
     Prepares the DataFrame for upload by removing rows with missing values.
-
-    Parameters:
-        data (pd.DataFrame): The raw DataFrame to clean.
-
-    Returns:
-        pd.DataFrame: The cleaned DataFrame with NULL rows dropped.
+    Takes in one parameter (data, the raw DataFrame), and returns the clean DataFrame with the Null rows dropped.
     """
     logging.info("Cleaning data: removing rows with missing values...")
     initial_count = len(data)
@@ -57,10 +47,7 @@ def load_data(data, table="mock"):
     """
     Creates the destination table in MySQL if it does not exist and uploads 
     the DataFrame rows using parameterized INSERT statements.
-
-    Parameters:
-        data (pd.DataFrame): The cleaned DataFrame to upload.
-        table (str): The name of the MySQL table (defaults to 'mock').
+    Takes in the cleaned DataFrame and the name of the table ('mock')
     """
     # Read DB host, DB name, DB user, DB password from environment variables
     db_host = (os.getenv("DBHOST") or "").strip()
