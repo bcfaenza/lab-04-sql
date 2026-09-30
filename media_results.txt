@@ -1,0 +1,3 @@
+username	email	title	caption
+kate	kate@gmail.com	My First Post	Look at my cute puppy
+kate	kate@gmail.com	My Second Post	Here is an update on my puppy

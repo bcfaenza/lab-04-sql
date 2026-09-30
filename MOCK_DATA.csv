@@ -1,0 +1,201 @@
+id,group,item_name,quantity,price,store_location
+1,Wholesale,,10,99,Luis Donaldo Colosio
+2,Online,Monitor,9,992,Soldato-Aleksandrovskoye
+3,Online,Laptop,10,810,Daojiang
+4,Wholesale,Laptop,2,402,Haodian
+5,Wholesale,Monitor,3,838,Seda
+6,Wholesale,Keyboard,,246,Wangcheng
+7,,Keyboard,10,998,Krapyak Kidul
+8,Online,Mouse,8,321,Yŏng-dong
+9,Wholesale,Laptop,7,526,Aldeia
+10,Wholesale,Monitor,9,106,Irvine
+11,Retail,Keyboard,6,184,El Ksour
+12,Retail,Keyboard,6,776,Jieheshi
+13,Online,Monitor,8,940,Jönköping
+14,Online,Keyboard,10,241,Pointe-à-Pitre
+15,Retail,Keyboard,10,980,Lasek
+16,Wholesale,,5,875,Banturkrajan
+17,Wholesale,Mouse,,239,Costa de Rios Frios
+18,Retail,Laptop,5,901,Kokas
+19,Online,Mouse,2,579,Gempol
+20,Online,Laptop,8,71,Skutskär
+21,Online,Laptop,1,471,Montonggamang
+22,Online,Keyboard,2,478,Az Zubaydāt
+23,Retail,Laptop,6,327,Piraju
+24,Wholesale,Keyboard,8,458,La Paz
+25,Retail,Keyboard,5,749,Bolobo
+26,Online,Keyboard,5,253,Monte-Carlo
+27,Retail,Laptop,1,866,Mataigou
+28,Online,Mouse,9,941,Xiage
+29,,Laptop,9,12,Banjar Bias
+30,Online,Laptop,5,936,Mégara
+31,Online,Keyboard,1,133,Chishui
+32,Online,Mouse,10,988,Khashuri
+33,,Monitor,10,381,Parque Industrial
+34,Retail,Monitor,10,746,Pécs
+35,Wholesale,Keyboard,7,850,Aksu
+36,Retail,Laptop,9,465,Polešovice
+37,Online,Keyboard,8,52,Huangbu
+38,Retail,Mouse,9,477,Jinshi
+39,Online,Mouse,9,758,Senggapi
+40,,Mouse,9,943,Szczecin
+41,Retail,Mouse,9,829,Tadrart
+42,Wholesale,Keyboard,7,301,Paccha
+43,Online,Laptop,3,430,Shuanglong
+44,Retail,Mouse,10,377,Mobile
+45,Retail,Keyboard,10,263,Bohutín
+46,Wholesale,Keyboard,7,300,Hobo
+47,Retail,Monitor,10,755,Araçatuba
+48,Retail,Monitor,7,484,Łącko
+49,Wholesale,Keyboard,3,115,Puerto Varas
+50,Wholesale,Monitor,9,614,Pokrov
+51,Wholesale,Laptop,8,44,Shahr-e Şafā
+52,Wholesale,Monitor,7,449,Jiaogong
+53,Wholesale,,10,115,Bāniyās
+54,Wholesale,Monitor,1,18,Tawangsari
+55,Online,Laptop,4,404,Tarrafal de São Nicolau
+56,Wholesale,Monitor,4,538,Piterka
+57,Wholesale,Laptop,7,522,Saint George's
+58,Online,Mouse,3,986,Charleston
+59,Retail,Laptop,6,949,Wakefield
+60,Wholesale,Keyboard,6,812,San Francisco
+61,Retail,Keyboard,2,518,Javarthushuu
+62,Online,Mouse,9,210,Saguing
+63,Wholesale,Mouse,9,767,Shuntian
+64,Retail,Monitor,9,306,Pimentel
+65,Wholesale,Mouse,9,976,Balīlā
+66,Retail,Laptop,8,687,Vrtojba
+67,Retail,Laptop,9,286,San Antonio de Los Altos
+68,Retail,Laptop,5,453,Boa Esperança
+69,Online,Monitor,9,722,Strawczyn
+70,Wholesale,Monitor,10,897,Zushi
+71,Wholesale,Mouse,,347,Bang Na
+72,Retail,Mouse,5,216,Pirassununga
+73,Retail,Monitor,10,374,Gangdong
+74,Online,Monitor,8,32,Ranambeling
+75,Online,Keyboard,6,431,Aqtöbe
+76,Online,Monitor,5,398,Marcabamba
+77,Retail,Keyboard,3,95,Amboasary
+78,Online,Mouse,4,704,Kawm Ḩamādah
+79,Online,Keyboard,9,904,Dachun
+80,Wholesale,Mouse,9,473,Kattaqo’rg’on
+81,Online,Laptop,5,922,Taiyuan
+82,Online,Keyboard,4,245,Tsapêraī
+83,Online,Monitor,6,398,Gaillac
+84,Wholesale,Mouse,9,927,Monte do Outeiro
+85,,Mouse,6,201,Kalahang
+86,Wholesale,Laptop,9,537,Balbalan
+87,Wholesale,Keyboard,2,383,Pekuwon
+88,Wholesale,Monitor,,970,Cibingbin
+89,Retail,Monitor,,115,Tlogosari
+90,Retail,Mouse,9,981,Antas
+91,Retail,Mouse,7,517,Colorado Springs
+92,,Mouse,1,377,Mendenrejo
+93,Retail,Monitor,7,270,Busungbiu
+94,Wholesale,Laptop,2,172,Woodford Hill
+95,Online,Mouse,1,642,Tall Abyaḑ
+96,Wholesale,Mouse,8,260,Bulqizë
+97,Online,Mouse,8,11,Quelimane
+98,Wholesale,Laptop,6,954,Rudnogorsk
+99,Retail,Mouse,8,553,Dobje pri Planini
+100,Online,Mouse,2,811,Saint-Étienne
+101,Wholesale,Keyboard,7,451,Fujioka
+102,Online,Mouse,4,143,Gudang
+103,Retail,Laptop,4,354,El Adelanto
+104,Retail,Mouse,7,692,Gaolong
+105,Online,,8,232,Capissayan Sur
+106,Online,Monitor,6,403,Amparafaravola
+107,Wholesale,Laptop,1,805,Xintian
+108,Wholesale,Monitor,1,16,Yetang
+109,Wholesale,Monitor,3,271,Kristiansund N
+110,Wholesale,Keyboard,6,83,Siqiao
+111,Retail,,5,869,Pantai
+112,Wholesale,Mouse,4,214,Thị Trấn Lâm
+113,Online,Keyboard,2,851,Guajará Mirim
+114,Online,Keyboard,,615,Zhuanqiang
+115,,,9,18,Sidaraja
+116,Online,Monitor,4,378,Nizhnyaya Maktama
+117,Online,Monitor,4,619,Adelaide Mail Centre
+118,Wholesale,Monitor,6,81,Jijia
+119,Online,Monitor,6,496,Beringovskiy
+120,Online,Monitor,5,878,Kaset Sombun
+121,Retail,Keyboard,7,401,Huomachong
+122,Wholesale,Laptop,1,467,Thatèng
+123,Online,Laptop,3,154,Lubenia
+124,Online,Keyboard,4,937,Pozo Hondo
+125,Wholesale,Laptop,4,972,Jirjā
+126,Online,Mouse,10,772,Far‘ūn
+127,Online,Monitor,4,908,Ponjen
+128,Wholesale,Keyboard,7,316,Yaroslavl
+129,Retail,Monitor,7,569,Parakanbeusi
+130,Wholesale,Mouse,5,958,Camaquã
+131,Retail,Keyboard,6,451,Stare Kurowo
+132,Online,Keyboard,9,654,Zhanping
+133,Retail,Monitor,3,403,Saint-Pierre
+134,,Monitor,1,611,Caringin
+135,,Monitor,8,377,Alor Setar
+136,Wholesale,Mouse,7,73,Karnice
+137,Online,Keyboard,8,541,Baliuag
+138,Online,,2,968,Rudnya
+139,Wholesale,Laptop,9,497,Yopal
+140,Wholesale,Keyboard,2,503,Liucun
+141,Retail,Laptop,6,480,Wijewo
+142,Retail,Keyboard,6,864,Hanbin
+143,Online,Keyboard,7,366,Zakroczym
+144,Online,Monitor,1,309,El Calvario
+145,Online,Mouse,9,580,Watergrasshill
+146,Online,Monitor,7,611,Artemisa
+147,Online,Monitor,7,302,Gongchenqiao
+148,Online,Monitor,,366,Tangga
+149,Wholesale,Mouse,4,790,Khān Shaykhūn
+150,Retail,Laptop,7,147,Cloyne
+151,Retail,Laptop,1,93,Messina
+152,Retail,Keyboard,7,853,Konārak
+153,Online,,,117,Shal’skiy
+154,Retail,Mouse,1,874,Bebedouro
+155,Wholesale,Keyboard,1,796,Amuru
+156,,Mouse,1,166,Samālūţ
+157,Retail,Keyboard,9,674,Yuanhou
+158,Wholesale,Monitor,7,572,Montpellier
+159,Wholesale,,,748,Nong Yai
+160,Online,Monitor,3,484,Diaofeng
+161,Retail,Laptop,1,210,Valleymount
+162,Wholesale,Mouse,2,16,Putrajaya
+163,Online,Mouse,10,122,Figueiró dos Vinhos
+164,Retail,Monitor,,275,Moluo
+165,Wholesale,Keyboard,6,436,Wuquan
+166,Online,,1,838,Laojun
+167,Wholesale,Keyboard,3,756,Maojia
+168,Wholesale,Keyboard,4,160,Changping
+169,Retail,Mouse,3,189,Floriana
+170,Wholesale,Monitor,3,79,Lusk
+171,Wholesale,Laptop,9,104,Vicente Guerrero
+172,Retail,Laptop,3,959,Dazu
+173,,Keyboard,2,949,San Antonio
+174,Online,Mouse,5,603,La Banda
+175,,,2,594,Luoping
+176,Online,Monitor,10,707,Kapchorwa
+177,Retail,Mouse,8,893,Feilaixia
+178,Online,Laptop,8,365,Mattawa
+179,Retail,Mouse,4,948,Mabasa
+180,Wholesale,Laptop,2,1000,Starychi
+181,Online,Keyboard,4,644,Guanyang
+182,Online,Monitor,6,80,Bamban
+183,Wholesale,Monitor,3,169,Susapaya
+184,Retail,Mouse,1,595,Bokor
+185,Retail,Monitor,10,274,Far‘ūn
+186,Online,Mouse,7,49,Valence
+187,Retail,Monitor,,991,Casal da Anja
+188,Online,Laptop,9,34,Geser
+189,Retail,Mouse,6,667,Cimongkor
+190,Wholesale,Monitor,,423,Olutanga
+191,Online,Monitor,9,678,Halimaung Jaya (F-3)
+192,Retail,Mouse,9,278,Marxog
+193,Online,Laptop,8,606,Guangli
+194,Online,Monitor,4,337,Taganrog
+195,Online,Monitor,5,822,Shenavan
+196,Online,Keyboard,2,335,Oslo
+197,Retail,Keyboard,1,352,Takaoka
+198,Online,Laptop,10,167,Hanfeng
+199,Wholesale,Mouse,4,879,Floridablanca
+200,Wholesale,Monitor,10,512,La Unión
